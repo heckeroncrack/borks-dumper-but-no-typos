@@ -116,7 +116,7 @@ function activate(context) {
 						case "Rename Globals":		// frosty did this part for me
 							RG = true;				// he was probably annoyed at me for saying "switch is just lazy if statements"
 							break;					// https://i.imgur.com/prVAEDU.png
-						case "Sovle Math":
+						case "Solve Math":
 							SM = true;
 							break
 					}
